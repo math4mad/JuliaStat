@@ -1,0 +1,4 @@
+Sitemap: https://math4mad.github.io/JuliaStat/sitemap.xml
+
+User-agent: *
+Disallow:
